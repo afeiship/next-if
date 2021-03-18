@@ -3,7 +3,7 @@
  * description: If condition for next.
  * homepage: https://github.com/afeiship/next-if
  * version: 1.0.0
- * date: 2021-03-18 15:24:11
+ * date: 2021-03-18 15:25:42
  * license: MIT
  */
 
