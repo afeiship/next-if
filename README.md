@@ -15,7 +15,10 @@ npm install -S @jswork/next-if
 ```js
 import '@jswork/next-if';
 
-//DOCS here!
+const obj1 = { name: 'fei' };
+const res1 = nx.if(obj1.name === 'fei', 'yes', 'no');
+
+// yes
 ```
 
 ## license
